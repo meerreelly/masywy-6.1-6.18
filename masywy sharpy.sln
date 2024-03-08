@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.9.34622.214
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "masywy sharpy", "masywy sharpy\masywy sharpy.csproj", "{8A139FFC-087C-4CA9-9C78-23A876CC40CC}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8A139FFC-087C-4CA9-9C78-23A876CC40CC}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{8A139FFC-087C-4CA9-9C78-23A876CC40CC}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{8A139FFC-087C-4CA9-9C78-23A876CC40CC}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{8A139FFC-087C-4CA9-9C78-23A876CC40CC}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B97E0067-5535-46AA-BFDE-E027DFD2C25C}
+	EndGlobalSection
+EndGlobal
